@@ -5,12 +5,6 @@ Version:	0.2
 Release:	3
 License:	freeware
 Group:		Applications/Sound
-Group(de):	Applikationen/Laut
-Group(es):	Aplicaciones/Sonido
-Group(fr):	Aplicações/Bruit
-Group(pl):	Aplikacje/D¼wiêk
-Group(pt):	Aplicações/Som
-Group(pt_BR):	Aplicações/Som
 Source0:	http://kunik.republika.pl/sap/dl/%{name}-%{version}.tar.gz
 URL:		http://kunik.republika.pl/sap/
 BuildRequires:	libsap-devel
