@@ -2,7 +2,7 @@ Summary:	plays Atari XL/XE tune files (files with .sap - Slight Atari Player ext
 Summary(pl):	program do odtwarzania melodii z Atari XL/XE (pliki z roszerzeniem .sap - Slight Atari Player)
 Name:		sapplay
 Version:	0.2
-Release:	3
+Release:	4
 License:	Freeware
 Group:		Applications/Sound
 Source0:	http://kunik.republika.pl/sap/dl/%{name}-%{version}.tar.gz
