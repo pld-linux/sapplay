@@ -33,7 +33,7 @@ s± za³±czone w tym pakiecie.
 Wiêcej informacji o muzyce z 8-bitowego Atari oraz utwory w formacie
 .sap znajduj± siê pod adresem http://asma.dspaudio.com.
 
-%prep -q
+%prep
 %setup -q
 
 %build
