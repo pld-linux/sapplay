@@ -6,6 +6,7 @@ Release:	3
 License:	Freeware
 Group:		Applications/Sound
 Source0:	http://kunik.republika.pl/sap/dl/%{name}-%{version}.tar.gz
+# Source0-md5:	ac62ed3234abb79aa3f96f93fefe0c89
 URL:		http://kunik.republika.pl/sap/
 BuildRequires:	libsap-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
