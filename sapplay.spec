@@ -3,7 +3,7 @@ Summary(pl):	program do odtwarzania melodii z Atari XL/XE (pliki z roszerzeniem 
 Name:		sapplay
 Version:	0.2
 Release:	3
-License:	freeware
+License:	Freeware
 Group:		Applications/Sound
 Source0:	http://kunik.republika.pl/sap/dl/%{name}-%{version}.tar.gz
 URL:		http://kunik.republika.pl/sap/
