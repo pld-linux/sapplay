@@ -20,7 +20,7 @@ chips that are used in Atari XL/XE). Libsap runs programs written in
 sounds. Libsap files are included in this package.
 
 For tunes and more information about 8-bit Atari music, visit
-http://asma.dspaudio.com/.
+<http://asma.atari.org/>.
 
 %description -l pl
 Sapplay jest konsolowym odtwarzaczem muzyczek z Atari XL/XE (pliki z
@@ -32,7 +32,7 @@ uk³adu Pokey do odtwarzania d¼wiêku i muzyki. Pliki biblioteki libsap
 s± za³±czone w tym pakiecie.
 
 Wiêcej informacji o muzyce z 8-bitowego Atari oraz utwory w formacie
-.sap znajduj± siê pod adresem http://asma.dspaudio.com.
+.sap znajduj± siê pod adresem <http://asma.atari.org/>.
 
 %prep
 %setup -q
