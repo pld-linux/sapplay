@@ -1,5 +1,5 @@
 Summary:	plays Atari XL/XE tune files (files with .sap - Slight Atari Player extension)
-Summary(pl):	program do odtwarzania melodii z Atari XL/XE (pliki z rozszerzeniem .sap - Slight Atari Player)
+Summary(pl.UTF-8):   program do odtwarzania melodii z Atari XL/XE (pliki z rozszerzeniem .sap - Slight Atari Player)
 Name:		sapplay
 Version:	0.2
 Release:	4
@@ -22,17 +22,17 @@ sounds. Libsap files are included in this package.
 For tunes and more information about 8-bit Atari music, visit
 <http://asma.atari.org/>.
 
-%description -l pl
+%description -l pl.UTF-8
 Sapplay jest konsolowym odtwarzaczem muzyczek z Atari XL/XE (pliki z
-rozszerzeniem .sap - Slight Atari Player). Sapplay u¿ywa biblioteki
-libsap (która umo¿liwia programow± emulacjê mikroprocesora 6502 oraz
-chipsetu Pokey - uk³adów u¿ywanych w komputerach Atari XL/XE). Libsap
-umo¿liwia uruchomienie kodu maszynowego Atari XL/XE który u¿ywa u¿ywa
-uk³adu Pokey do odtwarzania d¼wiêku i muzyki. Pliki biblioteki libsap
-s± za³±czone w tym pakiecie.
+rozszerzeniem .sap - Slight Atari Player). Sapplay uÅ¼ywa biblioteki
+libsap (ktÃ³ra umoÅ¼liwia programowÄ… emulacjÄ™ mikroprocesora 6502 oraz
+chipsetu Pokey - ukÅ‚adÃ³w uÅ¼ywanych w komputerach Atari XL/XE). Libsap
+umoÅ¼liwia uruchomienie kodu maszynowego Atari XL/XE ktÃ³ry uÅ¼ywa uÅ¼ywa
+ukÅ‚adu Pokey do odtwarzania dÅºwiÄ™ku i muzyki. Pliki biblioteki libsap
+sÄ… zaÅ‚Ä…czone w tym pakiecie.
 
-Wiêcej informacji o muzyce z 8-bitowego Atari oraz utwory w formacie
-.sap znajduj± siê pod adresem <http://asma.atari.org/>.
+WiÄ™cej informacji o muzyce z 8-bitowego Atari oraz utwory w formacie
+.sap znajdujÄ… siÄ™ pod adresem <http://asma.atari.org/>.
 
 %prep
 %setup -q
